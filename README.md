@@ -1,4 +1,3 @@
-# Restaurant Finder App
 
 # Restaurant Finder App
 
